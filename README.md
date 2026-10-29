@@ -26,7 +26,7 @@
 
 ### 프로젝트
 - **세상을 바꾸는 모임** — Unity와 카카오톡 챗봇을 연동한 목표 관리 보드게임
-- **컴공생 키우기 2** — Unity 턴제 육성 시뮬레이션 | [링크](https://play.google.com/store/apps/details?id=com.ExpStudio.RaisingStudent2&hl=ko)
+- **컴공생 키우기 2** — Unity 턴제 육성 시뮬레이션 | [링크](https://play.google.com/store/apps/details?id=com.ExpStudio.RaisingStudent2&hl=ko) | [자료](02_프로젝트_컴공생키우기2.pdf)
 
 ### 경험
 - 펄어비스 게임디자인팀 인턴 (2024.01–2024.06) · 검은사막 사이드 퀘스트 기획 및 구현 | [자료](01_검은사막_퀘스트제작.pdf)
