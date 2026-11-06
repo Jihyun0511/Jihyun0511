@@ -24,9 +24,9 @@
 
 ## 이전 경험들
 
+### 경험
+- 펄어비스 게임디자인팀 인턴 (2024.01–2024.06) · 검은사막 사이드 퀘스트 기획 및 구현 | [자료](https://jihyun0511.github.io/Jihyun0511/01_%EA%B2%80%EC%9D%80%EC%82%AC%EB%A7%89_%ED%80%98%EC%8A%A4%ED%8A%B8%EC%A0%9C%EC%9E%91.pdf)
+
 ### 프로젝트
 - **세상을 바꾸는 모임** — Unity와 카카오톡 챗봇을 연동한 목표 관리 보드게임
-- **컴공생 키우기 2** — Unity 턴제 육성 시뮬레이션 | [링크](https://play.google.com/store/apps/details?id=com.ExpStudio.RaisingStudent2&hl=ko) | [자료](02_프로젝트_컴공생키우기2.pdf)
-
-### 경험
-- 펄어비스 게임디자인팀 인턴 (2024.01–2024.06) · 검은사막 사이드 퀘스트 기획 및 구현 | [자료](01_검은사막_퀘스트제작.pdf)
+- **컴공생 키우기 2** — Unity 턴제 육성 시뮬레이션 | [링크](https://play.google.com/store/apps/details?id=com.ExpStudio.RaisingStudent2&hl=ko) | [자료](https://jihyun0511.github.io/Jihyun0511/02_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%BB%B4%EA%B3%B5%EC%83%9D%ED%82%A4%EC%9A%B0%EA%B8%B02.pdf)
